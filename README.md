@@ -1,5 +1,7 @@
 # Project Outline:
 
+<img src="ispy.png" width="800"> 
+
 Idea
 - A webcam with a live facial recognition system to help detect individuals in a database.
 
